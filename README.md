@@ -1,2 +1,2 @@
 # pybullet
-pybullet을 이용한 강화학습 예제
+ddpg_pendulum 강화학습 예제
